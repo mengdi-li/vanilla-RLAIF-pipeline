@@ -1,0 +1,11 @@
+# install python of the following version when initualizing the conda environment
+# python==3.12.7 
+transformers==4.48.0dev0
+peft==0.14.0
+trl==0.13.0.dev0
+torch==2.5.1
+datasets==3.0.1
+tqdm==4.66.5
+wandb==0.19.0
+accelerate==0.34.2
+deepspeed==0.15.4
