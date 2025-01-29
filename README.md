@@ -5,8 +5,8 @@ The implementation is intended for research and learning purposes, utilizing GPT
 # Installation
 ## clone project code
 ```
-git clone git@github.com:mengdi-li/Vanilla-RLAIF-Pipeline.git
-cd Vanilla-RLAIF-Pipeline
+git clone git@github.com:mengdi-li/vanilla-RLAIF-pipeline.git
+cd vanilla-RLAIF-pipeline
 ```
 
 ## create conda environment
