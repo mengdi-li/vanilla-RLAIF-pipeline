@@ -1,6 +1,6 @@
-This codebase is an implementation of a vanilla RLAIF pipeline as described in the paper "RLAIF vs. RLHF: Scaling Reinforcement Learning  from Human Feedback with AI Feedback" (https://arxiv.org/abs/2309.00267). 
+This codebase is an implementation of a vanilla RLAIF pipeline, utilizing GPT-2-Large (774M) for the summarization task with the TL;DR dataset. LLama-3.3-70B is employed to construct the preference dataset, while GPT-4o is used to calculate the win rate. The pipeline is primarily based on the approach described in the paper "RLAIF vs. RLHF: Scaling Reinforcement Learning  from Human Feedback with AI Feedback" (https://arxiv.org/abs/2309.00267). 
 
-The implementation is intended for research and learning purposes, utilizing GPT-2-Large for the summarization task with the TL;DR dataset. 
+This implementation is mainly intended for research and educational purposes. We note that our evaluation results are not directly comparable to those reported in this paper due to differences in the base models used and the potential variation in the size of the AI-annotated preference dataset. 
 
 # Installation
 ## clone project code
